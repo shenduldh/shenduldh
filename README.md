@@ -1,1 +1,1 @@
-[![Hey, I'm Daking!](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f92b_1f913_1f60f_1f636&text=Hey%252C%2520I%27m%2520Daking%21)](https://pimp-my-readme.webapp.io)
+[![Daking, Welcome to my home!](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Welcome%20to%20my%20home%21&title=Daking)](https://pimp-my-readme.webapp.io)
